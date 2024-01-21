@@ -4,7 +4,7 @@
   "description": "Astranova: An NFT MarketPlace",
   "main": "server.ts",
   "scripts": {
-    "node-version": "echo v18.18.2",
+    "version": "echo v18.18.2",
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "tsc",
     "prestart": "npm run build",
